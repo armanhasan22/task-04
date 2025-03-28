@@ -1,0 +1,1 @@
+alert("Welcome to know about bemar ajhi")
